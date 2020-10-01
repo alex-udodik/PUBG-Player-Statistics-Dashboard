@@ -1,3 +1,3 @@
-# PUBG---Player-Statistics-Application
+# PUBG - Player-Statistics-Application
 
 ![Screenshot](pubg.gif)
