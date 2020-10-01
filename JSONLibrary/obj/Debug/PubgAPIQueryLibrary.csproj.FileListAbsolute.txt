@@ -1,0 +1,117 @@
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\JSONLibrary.dll.config
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\JSONLibrary.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\JSONLibrary.pdb
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\JsonApiSerializer.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\nunit.framework.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\Pubg.Net.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\System.Json.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\nunit.framework.pdb
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\nunit.framework.xml
+D:\Visual Studio Projects\JSONLibrary\bin\Debug\System.Json.xml
+D:\Visual Studio Projects\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csprojAssemblyReference.cache
+D:\Visual Studio Projects\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CopyComplete
+D:\Visual Studio Projects\JSONLibrary\obj\Debug\JSONLibrary.dll
+D:\Visual Studio Projects\JSONLibrary\obj\Debug\JSONLibrary.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\JSONLibrary.dll.config
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\JSONLibrary.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\JSONLibrary.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\JsonApiSerializer.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\nunit.framework.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Pubg.Net.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Json.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\nunit.framework.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\nunit.framework.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Json.xml
+D:\PUBG C# Stats Project\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CoreCompileInputs.cache
+D:\PUBG C# Stats Project\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CopyComplete
+D:\PUBG C# Stats Project\JSONLibrary\obj\Debug\JSONLibrary.dll
+D:\PUBG C# Stats Project\JSONLibrary\obj\Debug\JSONLibrary.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\JsonSubTypes.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.Wpf.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.Wpf.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\LiveCharts.Wpf.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Npgsql.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Buffers.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Memory.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Text.Json.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.ValueTuple.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Npgsql.pdb
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Npgsql.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Buffers.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Memory.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Text.Encodings.Web.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Text.Json.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.ValueTuple.xml
+D:\PUBG C# Stats Project\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csprojAssemblyReference.cache
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Dapper.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Data.SQLite.dll
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\Dapper.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Data.SQLite.xml
+D:\PUBG C# Stats Project\JSONLibrary\bin\Debug\System.Data.SQLite.dll.config
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\JSONLibrary.dll.config
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\JSONLibrary.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\JSONLibrary.pdb
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Dapper.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\JsonApiSerializer.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\JsonSubTypes.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.Wpf.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Npgsql.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\nunit.framework.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Pubg.Net.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Buffers.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Data.SQLite.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Json.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Memory.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Text.Json.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.ValueTuple.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Dapper.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.pdb
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.Wpf.pdb
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\LiveCharts.Wpf.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Npgsql.pdb
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\Npgsql.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\nunit.framework.pdb
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\nunit.framework.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Buffers.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Data.SQLite.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Data.SQLite.dll.config
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Json.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Memory.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Text.Encodings.Web.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Text.Json.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\bin\Debug\System.ValueTuple.xml
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csprojAssemblyReference.cache
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CoreCompileInputs.cache
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\obj\Debug\PubgAPIQueryLibrary.csproj.CopyComplete
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\obj\Debug\JSONLibrary.dll
+D:\GitLab\Tests\Pubg-Stat-Bot-Desktop\JSONLibrary\obj\Debug\JSONLibrary.pdb

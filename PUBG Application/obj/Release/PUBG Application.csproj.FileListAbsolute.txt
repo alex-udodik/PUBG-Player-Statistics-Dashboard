@@ -1,0 +1,24 @@
+D:\Visual Studio Projects\PUBG Application\bin\Release\PUBG Application.exe.config
+D:\Visual Studio Projects\PUBG Application\bin\Release\PUBG Application.exe
+D:\Visual Studio Projects\PUBG Application\bin\Release\PUBG Application.pdb
+D:\Visual Studio Projects\PUBG Application\bin\Release\bdr.exe
+D:\Visual Studio Projects\PUBG Application\bin\Release\Bunifu_UI_v1.52.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\CircularProgressBar.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\FontAwesome.Sharp.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\JSONLibrary.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\MaterialSkin.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\WinFormAnimation.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Projects\PUBG Application\bin\Release\JSONLibrary.pdb
+D:\Visual Studio Projects\PUBG Application\bin\Release\JSONLibrary.dll.config
+D:\Visual Studio Projects\PUBG Application\bin\Release\CircularProgressBar.xml
+D:\Visual Studio Projects\PUBG Application\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.csprojAssemblyReference.cache
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG_Application.MainWindow.resources
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG_Application.Forms.InnerForm.resources
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG_Application.Properties.Resources.resources
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.csproj.CopyComplete
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.exe
+D:\Visual Studio Projects\PUBG Application\obj\Release\PUBG Application.pdb

@@ -1,0 +1,17 @@
+D:\Visual Studio Projects\JSONLibrary\bin\Release\JSONLibrary.dll.config
+D:\Visual Studio Projects\JSONLibrary\bin\Release\JSONLibrary.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\JSONLibrary.pdb
+D:\Visual Studio Projects\JSONLibrary\bin\Release\JsonApiSerializer.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\nunit.framework.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\Pubg.Net.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\System.Json.dll
+D:\Visual Studio Projects\JSONLibrary\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Projects\JSONLibrary\bin\Release\nunit.framework.pdb
+D:\Visual Studio Projects\JSONLibrary\bin\Release\nunit.framework.xml
+D:\Visual Studio Projects\JSONLibrary\bin\Release\System.Json.xml
+D:\Visual Studio Projects\JSONLibrary\obj\Release\PubgAPIQueryLibrary.csprojAssemblyReference.cache
+D:\Visual Studio Projects\JSONLibrary\obj\Release\PubgAPIQueryLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\JSONLibrary\obj\Release\PubgAPIQueryLibrary.csproj.CopyComplete
+D:\Visual Studio Projects\JSONLibrary\obj\Release\JSONLibrary.dll
+D:\Visual Studio Projects\JSONLibrary\obj\Release\JSONLibrary.pdb
